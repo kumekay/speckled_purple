@@ -7,10 +7,12 @@ name = "pypi"
 pyaudio = "*"
 numpy = "*"
 wave = "*"
+openai = "*"
 
 [dev-packages]
 jupyter = "*"
 matplotlib = "*"
+black = "*"
 
 [requires]
 python_version = "3.12"
